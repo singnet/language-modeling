@@ -1,0 +1,8 @@
+{
+    "file": "mi_abs_to_ull.py",
+    "env": "py36",
+    "log_err": "errlog.txt",
+    "dir": "data/capital",
+    "workers_on_gpu": 7,
+    "num_gpu": 4 
+}
