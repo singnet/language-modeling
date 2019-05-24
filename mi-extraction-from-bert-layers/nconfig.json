@@ -1,0 +1,8 @@
+{
+    "file": "utils/run_demo.py",
+    "env": "py36",
+    "log_err": "errlog.txt",
+    "dir": "utils/data/subsets",
+    "workers_on_gpu": 6,
+    "num_gpu": 4 
+} 
